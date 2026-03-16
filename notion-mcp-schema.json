@@ -1,0 +1,11 @@
+{
+  "database_name": "Insurance Leads Hub",
+  "properties": {
+    "Lead Name": "title",
+    "Age": "number",
+    "Interest": "select",
+    "AI Strategy": "rich_text",
+    "Generated Hook": "rich_text",
+    "Status": "status"
+  }
+}
